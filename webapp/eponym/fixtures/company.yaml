@@ -1,0 +1,4 @@
+- model: eponym.company
+  pk: 1
+  fields:
+    name: Eponym

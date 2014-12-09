@@ -1,0 +1,20 @@
+- model: eponym.carmodeloption
+  pk: 1
+  fields:
+    name: Sunroof
+- model: eponym.carmodeloption
+  pk: 2
+  fields:
+    name: Turbo
+- model: eponym.carmodeloption
+  pk: 3
+  fields:
+    name: High Performance Stereo
+- model: eponym.carmodeloption
+  pk: 4
+  fields:
+    name: High Performance Tires
+- model: eponym.carmodeloption
+  pk: 5
+  fields:
+    name: Leather Interior

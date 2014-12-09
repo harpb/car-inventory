@@ -1,0 +1,41 @@
+﻿{
+   "meta":{
+      "limit":20,
+      "next":null,
+      "offset":0,
+      "previous":null,
+      "total_count":1
+   },
+   "objects":[
+      {
+         "brand":{
+            "company":{
+               "id":1,
+               "name":"Eponym",
+               "resource_uri":""
+            },
+            "id":3,
+            "name":"Sport",
+            "resource_uri":"/api/v1/brand/3/"
+         },
+         "color":"wine",
+         "id":7,
+         "name":"V1",
+         "options":[
+            {
+               "id":3,
+               "name":"High Performance Stereo",
+               "resource_uri":""
+            },
+            {
+               "id":4,
+               "name":"High Performance Tires",
+               "resource_uri":""
+            }
+         ],
+         "price":220000,
+         "resource_uri":"/api/v1/car_model/7/",
+         "year":2010
+      }
+   ]
+}

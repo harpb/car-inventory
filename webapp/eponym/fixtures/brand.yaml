@@ -1,0 +1,15 @@
+- model: eponym.brand
+  pk: 1
+  fields:
+    company: 1
+    name: Compact
+- model: eponym.brand
+  pk: 2
+  fields:
+    company: 1
+    name: Luxury
+- model: eponym.brand
+  pk: 3
+  fields:
+    company: 1
+    name: Sport

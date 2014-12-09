@@ -1,0 +1,57 @@
+﻿{
+   "meta":{
+      "limit":20,
+      "next":null,
+      "offset":0,
+      "previous":null,
+      "total_count":2
+   },
+   "objects":[
+      {
+         "brand":{
+            "company":{
+               "id":1,
+               "name":"Eponym",
+               "resource_uri":""
+            },
+            "id":2,
+            "name":"Luxury",
+            "resource_uri":"/api/v1/brand/2/"
+         },
+         "color":"wine",
+         "id":5,
+         "name":"V1",
+         "options":[
+
+         ],
+         "price":100000,
+         "resource_uri":"/api/v1/car_model/5/",
+         "year":2010
+      },
+      {
+         "brand":{
+            "company":{
+               "id":1,
+               "name":"Eponym",
+               "resource_uri":""
+            },
+            "id":2,
+            "name":"Luxury",
+            "resource_uri":"/api/v1/brand/2/"
+         },
+         "color":"wine",
+         "id":6,
+         "name":"V2",
+         "options":[
+            {
+               "id":5,
+               "name":"Leather Interior",
+               "resource_uri":""
+            }
+         ],
+         "price":120000,
+         "resource_uri":"/api/v1/car_model/6/",
+         "year":2010
+      }
+   ]
+}
