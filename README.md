@@ -14,6 +14,6 @@
 		webapp/manage.py runserver
 
 ##  HTTP API
-Replace <string> with any of following to filter by a brand: `Sport`, `Compact`, `Luxury`
+Replace `<string>` with any of following to filter by a brand: `Sport`, `Compact`, `Luxury`
 	
 	http://127.0.0.1:8000/api/v1/car_model/?format=json&brand__name=<string>
